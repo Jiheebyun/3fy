@@ -27,3 +27,7 @@
     - This service is responsible for providing components and functionalities to the user web service.
     - It delivers shared functionalities and components through APIs or modules so that the user web service can request and utilize the needed components when necessary.
     - By maintaining it as a standalone service, it makes it easier to expand various functionalities and ensures that components are only loaded when needed by the web service.
+
+
+
+스택
